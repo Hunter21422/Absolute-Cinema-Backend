@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+aiogram
+pydantic
+pydantic-settings
+python-dotenv
+alembic
+requests
+aiohttp
